@@ -1,0 +1,14 @@
+git commit -m 
+git remote add origin link
+git checkout name branch
+git init
+git push origin name to branch
+git remote remove origin
+git rm --cached name to file
+git rm --cached -r name to dir
+git branch
+git branch name to branch
+git add .
+git branch -d name to branch 
+git checkout -b name to branch
+git merge name to branch
